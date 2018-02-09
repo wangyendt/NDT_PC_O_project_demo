@@ -1,0 +1,15 @@
+<DataCollectingProcessConfig>
+  <SamplingTime>10</SamplingTime>
+  <ChannelAmount>3</ChannelAmount>
+  <CommunicationType>Collecting Data</CommunicationType>
+  <ObservationInterval>2000</ObservationInterval>
+  <TouchFlagFilterLength>3</TouchFlagFilterLength>
+  <NoisePeriod>100</NoisePeriod>
+  <SignalPeriod>200</SignalPeriod>
+  <DriftPeriod>300</DriftPeriod>
+  <SettingsPath>setting.ini</SettingsPath>
+  <InfoSavePath>Info.txt</InfoSavePath>
+  <RawdataSavePath>RawData.txt</RawdataSavePath>
+  <AutoStartTime>1000</AutoStartTime>
+  <AutoCloseTime>10</AutoCloseTime>
+</DataCollectingProcessConfig>

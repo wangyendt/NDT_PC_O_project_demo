@@ -1,0 +1,14 @@
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\Google Project -- Hao Li.exe.config
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\Google Project -- Hao Li.exe
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\Google Project -- Hao Li.pdb
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\Display_RawDataNative.dll
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\MWArray.dll
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\bin\Release\ZedGraph.dll
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google_Project____Hao_Li.Form1.resources
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google_Project____Hao_Li.Form2.resources
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google_Project____Hao_Li.Properties.Resources.resources
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google Project -- Hao Li.csproj.GenerateResource.Cache
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google Project -- Hao Li.exe
+E:\Programmes\Csharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google Project -- Hao Li.pdb
+E:\Programmes\CSharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google Project -- Hao Li.csprojResolveAssemblyReference.cache
+E:\Programmes\CSharp\Google Project -- Hao Li\Google Project -- Hao Li\obj\Release\Google Project -- Hao Li.csproj.CoreCompileInputs.cache
